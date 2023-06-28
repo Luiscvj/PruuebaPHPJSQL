@@ -1,0 +1,19 @@
+{
+    "name": "apolm01-012/pruueba-phpjsql",
+    "description": "Mi prueba de php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Luiscvj",
+            "email": "luiscarlos.villanjurado@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "App\\" : "./config",
+            "Clases\\" : "/models"
+           
+        }
+    }
+}
