@@ -1,5 +1,6 @@
 # PruuebaPHPJSQL
-
+Camper:Luis Carlos Villan
+Equipo:Apolo team 1
 BASE DE DATOS:
 
 CREATE TABLE 
